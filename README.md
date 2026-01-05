@@ -33,7 +33,7 @@ I am a passionate developer focused on building scalable **SaaS solutions** and 
 * **Stack:** Java Spring Boot, Angular, Docker, MySQL.
 * **Key Features:** Secure ticket booking, User management, Real-time analytics.
 
-*Private Repository (Code samples available upon request)*
+👉 [See Technical Showcase & Architecture](https://github.com/LupAgustin/PackedGo-Demo)
 
 ---
 
