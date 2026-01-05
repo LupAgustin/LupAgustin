@@ -33,14 +33,7 @@ I am a passionate developer focused on building scalable **SaaS solutions** and 
 * **Stack:** Java Spring Boot, Angular, Docker, MySQL.
 * **Key Features:** Secure ticket booking, User management, Real-time analytics.
 
-*[Link to PackedGo Repository if public] - Or "Private Repository (Available upon request)"*
-
----
-
-### 📊 GitHub Stats
-
-![Agustin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LupAgustin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LupAgustin&layout=compact&theme=radical)
+*Private Repository (Code samples available upon request)*
 
 ---
 
