@@ -39,10 +39,8 @@ I am a passionate developer focused on building scalable **SaaS solutions** and 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LupAgustin&show_icons=true&theme=radical" height="150" alt="Agustin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LupAgustin&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
+![Agustin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LupAgustin&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LupAgustin&layout=compact&theme=radical)
 
 ---
 
